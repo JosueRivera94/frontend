@@ -1,3 +1,27 @@
+## General info
+Front-end del poyecto de NotesApp, el cual provee la interfaz grafica del usuario y se conecta por medio del API rest al back-end para interactuar con la base de datos.
+	
+## Technologies
+Project is created with:
+* axios 0.27.2
+* bootstrap  5.1.3
+* react 18.1.0
+* react-dom  18.1.0
+* react-router-dom 6.3.0
+* react-scripts 5.0.1
+* reactstrap 9.0.4
+* sweetalert 2.1.2
+* web-vitals 2.1.4
+
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ npm install
+$ npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
